@@ -21,7 +21,7 @@ function App() {
     
 
   </Routes>
-  <SocialLinks/>
+  {/* <SocialLinks/> */}
   </div>
   
   );
